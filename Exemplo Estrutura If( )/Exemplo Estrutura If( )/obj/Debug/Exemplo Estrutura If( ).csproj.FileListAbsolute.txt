@@ -1,0 +1,7 @@
+C:\Users\Samuejooj\Documents\GitHub\Projetos-para-Iniciantes\Exemplo Estrutura If( )\Exemplo Estrutura If( )\bin\Debug\Exemplo Estrutura If( ).exe.config
+C:\Users\Samuejooj\Documents\GitHub\Projetos-para-Iniciantes\Exemplo Estrutura If( )\Exemplo Estrutura If( )\bin\Debug\Exemplo Estrutura If( ).exe
+C:\Users\Samuejooj\Documents\GitHub\Projetos-para-Iniciantes\Exemplo Estrutura If( )\Exemplo Estrutura If( )\bin\Debug\Exemplo Estrutura If( ).pdb
+C:\Users\Samuejooj\Documents\GitHub\Projetos-para-Iniciantes\Exemplo Estrutura If( )\Exemplo Estrutura If( )\obj\Debug\Exemplo Estrutura If( ).csprojAssemblyReference.cache
+C:\Users\Samuejooj\Documents\GitHub\Projetos-para-Iniciantes\Exemplo Estrutura If( )\Exemplo Estrutura If( )\obj\Debug\Exemplo Estrutura If( ).csproj.CoreCompileInputs.cache
+C:\Users\Samuejooj\Documents\GitHub\Projetos-para-Iniciantes\Exemplo Estrutura If( )\Exemplo Estrutura If( )\obj\Debug\Exemplo Estrutura If( ).exe
+C:\Users\Samuejooj\Documents\GitHub\Projetos-para-Iniciantes\Exemplo Estrutura If( )\Exemplo Estrutura If( )\obj\Debug\Exemplo Estrutura If( ).pdb
